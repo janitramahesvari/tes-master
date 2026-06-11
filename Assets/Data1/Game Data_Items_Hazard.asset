@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e44a853ccdf241408fcdf94ac749046, type: 3}
+  m_Name: Game Data_Items_Hazard
+  m_EditorClassIdentifier: 
+  itemName: Spike
+  icon: {fileID: -5159362228428509745, guid: 6513035e20db42f4d92b296f275b367a, type: 3}
+  damage: 30
+  hazardKnockbackForce: 0

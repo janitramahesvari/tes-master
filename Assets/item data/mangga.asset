@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4152abd61c2623f41a9add9d09ca62ae, type: 3}
+  m_Name: mangga
+  m_EditorClassIdentifier: 
+  itemName: mangga
+  icon: {fileID: 2799499457651537543, guid: 33ac3bce6a4939942be12227bfed8e25, type: 3}
+  type: 0
+  effectValue: 10
